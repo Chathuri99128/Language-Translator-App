@@ -1,0 +1,32 @@
+{
+  "project_info": {
+    "project_number": "274324093878",
+    "project_id": "translator-app-aecaf",
+    "storage_bucket": "translator-app-aecaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274324093878:android:d2660194e4374954fb1f17",
+        "android_client_info": {
+          "package_name": "com.example.myapp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0xdo1aI8U1ivqZG4IJrEbbgBd7H8GzjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
+
+
